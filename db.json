@@ -7,31 +7,95 @@
       "id": 1,
       "place": "Kozhikode",
       "designation": "Angular Developer",
-      "birthdate": "2024-05-31",
+      "birthdate": "2024-05-15",
       "country": "India",
       "facebook": "https://www.facebook.com/TheDummyPage/",
-      "instagram": "https://www.instagram.com/?hl=en",
+      "instagram": "sw",
+      "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
+    },
+    {
+      "email": "Rahul@gmail.com",
+      "password": "121212",
+      "username": "Rahul",
+      "id": 2
+    },
+    {
+      "email": "aman123@gmail.com",
+      "password": "123456",
+      "username": "aman",
+      "id": 3,
+      "place": "Kollammmmmmm",
+      "designation": "Angular Developer",
+      "birthdate": "2024-05-09",
+      "country": "India",
+      "facebook": "https://www.facebook.com/TheDummyPage/",
+      "instagram": "https://www.instagram.com",
       "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
     }
   ],
   "tasks": [
     {
-      "title": "updated",
-      "description": "dsdsdsd",
-      "dueDate": "2024-06-08",
-      "priority": "medium",
-      "status": "completed",
-      "username": "ja.xxm_",
-      "id": 1
+      "title": "sa",
+      "description": "sddsdsd",
+      "dueDate": "2024-05-02",
+      "priority": "low",
+      "status": "overdue",
+      "username": "Rahul",
+      "id": 2
     },
     {
-      "title": "wwddsd",
-      "description": "sdsdsdsd",
-      "dueDate": "2024-05-23",
+      "title": "wewewe",
+      "description": "wewewewe",
+      "dueDate": "2024-05-02",
+      "priority": "low",
+      "status": "completed",
+      "username": "Rahul",
+      "id": 3
+    },
+    {
+      "title": "eree",
+      "description": "e",
+      "dueDate": "2024-05-02",
+      "priority": "high",
+      "status": "overdue",
+      "username": "Rahul",
+      "id": 4
+    },
+    {
+      "title": "eererer",
+      "description": "eee",
+      "dueDate": "2024-05-01",
+      "priority": "medium",
+      "status": "overdue",
+      "username": "Rahul",
+      "id": 5
+    },
+    {
+      "title": "wewew",
+      "description": "sdsdsd",
+      "dueDate": "2024-05-03",
+      "priority": "low",
+      "status": "overdue",
+      "username": "Rahul",
+      "id": 6
+    },
+    {
+      "title": "sdsdsd",
+      "description": "sdsdsds",
+      "dueDate": "2024-05-15",
       "priority": "medium",
       "status": "pending",
+      "username": "aman",
+      "id": 9
+    },
+    {
+      "title": "dsdsdsd",
+      "description": "qss",
+      "dueDate": "2024-05-16",
+      "priority": "low",
+      "status": "pending",
       "username": "ja.xxm_",
-      "id": 2
+      "id": 10
     }
   ]
 }
