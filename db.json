@@ -44,6 +44,19 @@
       "facebook": "https://www.facebook.com/TheDummyPage/",
       "instagram": "https://www.instagram.com/?hl=en",
       "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
+    },
+    {
+      "email": "admin@demoapp.com",
+      "password": "123456",
+      "username": "assss",
+      "id": 5,
+      "place": "Kozhikode",
+      "designation": "Angular D",
+      "birthdate": "2024-05-17",
+      "country": "india",
+      "facebook": "https://www.facebook.com/TheDummyPage/",
+      "instagram": "https://www.instagram.com/?hl=en",
+      "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
     }
   ],
   "tasks": [
