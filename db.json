@@ -33,29 +33,16 @@
       "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
     },
     {
-      "email": "adsd@gmail.com",
-      "password": "123456",
-      "username": "aaaaaa",
+      "email": "ashiq@123",
+      "password": "111111",
+      "username": "ashiq",
       "id": 4,
-      "place": "Kollam",
-      "designation": "Angular D",
-      "birthdate": "2024-05-16",
-      "country": "india",
-      "facebook": "https://www.facebook.com/TheDummyPage/",
-      "instagram": "https://www.instagram.com/?hl=en",
-      "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
-    },
-    {
-      "email": "Rahul@gmail.com",
-      "password": "123456",
-      "username": "qqqqqq",
-      "id": 5,
       "place": "Kozhikode",
       "designation": "Angular Developer",
       "birthdate": "2024-05-16",
-      "country": "india",
+      "country": "India",
       "facebook": "https://www.facebook.com/TheDummyPage/",
-      "instagram": "https://www.instagram.com",
+      "instagram": "https://www.instagram.com/?hl=en",
       "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
     }
   ],
@@ -194,6 +181,33 @@
       "status": "pending",
       "username": "qqqqqq",
       "id": 19
+    },
+    {
+      "title": "aaaaaaaaaa",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam ut elit orci. Curabitur feugiat, libero non efficitur elementum, justo arcu consequat nisi, at faucibus justo neque at mauris. Duis quis arcu lectus. Donec mattis metus eu elit imperdiet, eu gravida libero interdum. Maecenas sed commodo ex, nec rutrum risus. Curabitur facilisis est nec diam",
+      "dueDate": "2024-05-02",
+      "priority": "low",
+      "status": "overdue",
+      "username": "ashiq",
+      "id": 20
+    },
+    {
+      "title": "zzzzzzzzzz",
+      "description": "dsdsdsd",
+      "dueDate": "2024-05-10",
+      "priority": "medium",
+      "status": "completed",
+      "username": "ashiq",
+      "id": 21
+    },
+    {
+      "title": "dddddd",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam ut elit orci. Curabitur feugiat, libero non efficitur elementum, justo arcu consequat nisi, at faucibus justo neque at mauris. Duis quis arcu lectus. Donec mattis metus eu elit imperdiet, eu gravida libero interdum. Maecenas sed commodo ex, nec rutrum risus. Curabitur facilisis est nec diam",
+      "dueDate": "2024-05-23",
+      "priority": "high",
+      "status": "pending",
+      "username": "ashiq",
+      "id": 22
     }
   ]
 }
