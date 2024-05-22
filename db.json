@@ -5,57 +5,25 @@
       "password": "111111",
       "username": "ja.xxm_",
       "id": 1,
-      "place": "Kozhikode",
-      "designation": "AngularDeveloper",
+      "place": "Kollam",
+      "designation": "react Developer",
       "birthdate": "2024-05-10",
-      "country": "India",
+      "country": "kerala",
       "facebook": "https://www.facebook.com/TheDummyPage/",
-      "instagram": "sw",
+      "instagram": "https://www.instagram.com/",
       "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
     },
     {
       "email": "Rahul@gmail.com",
       "password": "121212",
       "username": "Rahul",
-      "id": 2
-    },
-    {
-      "email": "aman123@gmail.com",
-      "password": "123456",
-      "username": "aman",
-      "id": 3,
-      "place": "Kollammmmmmm",
+      "id": 2,
+      "place": "Kozhi",
       "designation": "Angular Developer",
-      "birthdate": "2024-05-09",
+      "birthdate": "2024-05-01",
       "country": "India",
       "facebook": "https://www.facebook.com/TheDummyPage/",
       "instagram": "https://www.instagram.com",
-      "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
-    },
-    {
-      "email": "ashiq@123",
-      "password": "111111",
-      "username": "ashiq",
-      "id": 4,
-      "place": "Kozhikode",
-      "designation": "Angular Developer",
-      "birthdate": "2024-05-16",
-      "country": "India",
-      "facebook": "https://www.facebook.com/TheDummyPage/",
-      "instagram": "https://www.instagram.com/?hl=en",
-      "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
-    },
-    {
-      "email": "admin@demoapp.com",
-      "password": "123456",
-      "username": "assss",
-      "id": 5,
-      "place": "Kozhikode",
-      "designation": "Angular D",
-      "birthdate": "2024-05-17",
-      "country": "india",
-      "facebook": "https://www.facebook.com/TheDummyPage/",
-      "instagram": "https://www.instagram.com/?hl=en",
       "linkedIn": "https://www.linkedin.com/in/jasim-aboobacker-3353b1212/"
     }
   ],
@@ -65,7 +33,7 @@
       "description": "sddsdsd",
       "dueDate": "2024-05-02",
       "priority": "low",
-      "status": "overdue",
+      "status": "completed",
       "username": "Rahul",
       "id": 2
     },
@@ -83,7 +51,7 @@
       "description": "e",
       "dueDate": "2024-05-02",
       "priority": "high",
-      "status": "overdue",
+      "status": "completed",
       "username": "Rahul",
       "id": 4
     },
@@ -106,20 +74,11 @@
       "id": 6
     },
     {
-      "title": "sdsdsd",
-      "description": "sdsdsds",
-      "dueDate": "2024-05-15",
-      "priority": "medium",
-      "status": "pending",
-      "username": "aman",
-      "id": 9
-    },
-    {
-      "title": "dsxxxzxz",
-      "description": "xzxzxxzx",
+      "title": "edited title",
+      "description": "upadted descrption",
       "dueDate": "2024-05-23",
       "priority": "low",
-      "status": "pending",
+      "status": "completed",
       "username": "ja.xxm_",
       "id": 10
     },
@@ -128,7 +87,7 @@
       "description": "dfdfdf",
       "dueDate": "2024-05-09",
       "priority": "low",
-      "status": "pending",
+      "status": "overdue",
       "username": "aaaaaa",
       "id": 11
     },
@@ -151,20 +110,11 @@
       "id": 13
     },
     {
-      "title": "d'sds'd/s'd",
-      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam ut elit orci. Curabitur feugiat, libero non efficitur elementum, justo arcu consequat nisi, at faucibus justo neque at mauris. Duis quis arcu lectus. Donec mattis metus eu elit imperdiet, eu gravida libero interdum. Maecenas sed commodo ex, nec rutrum risus. Curabitur facilisis est nec diam",
-      "dueDate": "2024-05-02",
-      "priority": "low",
-      "status": "overdue",
-      "username": "ja.xxm_",
-      "id": 14
-    },
-    {
       "title": "wdws",
       "description": "sds",
       "dueDate": "2024-05-01",
       "priority": "high",
-      "status": "overdue",
+      "status": "completed",
       "username": "ja.xxm_",
       "id": 15
     },
@@ -191,18 +141,9 @@
       "description": ";,;,;;",
       "dueDate": "2024-05-16",
       "priority": "medium",
-      "status": "pending",
+      "status": "overdue",
       "username": "qqqqqq",
       "id": 19
-    },
-    {
-      "title": "aaaaaaaaaa",
-      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam ut elit orci. Curabitur feugiat, libero non efficitur elementum, justo arcu consequat nisi, at faucibus justo neque at mauris. Duis quis arcu lectus. Donec mattis metus eu elit imperdiet, eu gravida libero interdum. Maecenas sed commodo ex, nec rutrum risus. Curabitur facilisis est nec diam",
-      "dueDate": "2024-05-02",
-      "priority": "low",
-      "status": "overdue",
-      "username": "ashiq",
-      "id": 20
     },
     {
       "title": "zzzzzzzzzz",
@@ -221,6 +162,33 @@
       "status": "pending",
       "username": "ashiq",
       "id": 22
+    },
+    {
+      "title": "do project",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam ut elit orci. Curabitur feugiat, libero non efficitur elementum, justo arcu consequat nisi, at faucibus justo neque at mauris. Duis quis arcu lectus. Donec mattis metus eu elit imperdiet, eu gravida libero interdum. Maecenas sed commodo ex, nec rutrum risus. Curabitur facilisis est nec diam",
+      "dueDate": "2024-05-24",
+      "priority": "medium",
+      "status": "completed",
+      "username": "Rahul",
+      "id": 23
+    },
+    {
+      "title": "fdfdfd",
+      "description": "ddd",
+      "dueDate": "2024-05-17",
+      "priority": "low",
+      "status": "completed",
+      "username": "Rahul",
+      "id": 25
+    },
+    {
+      "title": "zzz",
+      "description": "sdsds",
+      "dueDate": "2024-06-09",
+      "priority": "low",
+      "status": "completed",
+      "username": "aman",
+      "id": 27
     }
   ]
 }
